@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;BootSecurity2-jdbc&apos; to &apos;BootSecurity-jdbc&apos;&#x0D;&#x0A;- Original element: &apos;BootSecurity2-jdbc&apos;&#x0D;&#x0A;- Renamed element: &apos;BootSecurity2-jdbc&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;BootSecurity2-jdbc&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=BootSecurity2-jdbc" name="BootSecurity-jdbc" references="true" stamp="1684823101639" version="1.0"/>
+</session>
